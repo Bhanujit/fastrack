@@ -1,5 +1,4 @@
-
-# Fastrack
+# fastrack
 
 Fastrack is one of the leading wrist watch selling company and a sub brand of Titan, and we have tried to clone their E-commerce website.
 
@@ -13,11 +12,9 @@ Fastrack is one of the leading wrist watch selling company and a sub brand of Ti
 
 ## Color Reference
 
-| Color             |                                                              |
-| ----------------- | ------------------------------------------------------------------ |
-| whiteSomke | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+)  |
-| black | ![black](https://via.placeholder.com/10/f8f8f8?text=+)  |
-| red-orange |  |
+- Black
+- Orange 
+- whiteSmoke
 
 
 
